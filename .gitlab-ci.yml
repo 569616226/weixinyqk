@@ -1,0 +1,10 @@
+stages:
+- develop
+deploy:
+  stage: develop
+  script:
+    - deploy_check_wx wx_check_elinkport_com weixinyqk
+  only:
+    - develop
+  tags:
+    - develop

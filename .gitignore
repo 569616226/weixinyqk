@@ -1,0 +1,5 @@
+node_modules
+npm-debug.log
+package-lock.json
+wechat-info.json
+src/server/views/static

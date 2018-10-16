@@ -1,0 +1,286 @@
+@font-face {
+	font-family: 'custom-iconfont';
+	/* project id 707702 */
+	src: url('//at.alicdn.com/t/font_707702_u2rdxgvmioa.eot');
+	src: url('//at.alicdn.com/t/font_707702_u2rdxgvmioa.eot?#iefix') format('embedded-opentype'), url('//at.alicdn.com/t/font_707702_u2rdxgvmioa.woff') format('woff'), url('//at.alicdn.com/t/font_707702_u2rdxgvmioa.ttf') format('truetype'), url('//at.alicdn.com/t/font_707702_u2rdxgvmioa.svg#iconfont') format('svg');
+}
+
+.van-icon {
+	font-family: 'vant-icon', 'custom-iconfont' !important;
+}
+
+.van-icon-ic_arrow_drop_up:before {
+	content: "\ea64";
+}
+
+.van-icon-information:before {
+	content: "\e7b8";
+}
+
+.van-icon-close2:before {
+	content: "\eadd";
+}
+
+.van-icon-07jiantouxiangxia:before {
+	content: "\e614";
+}
+
+.van-icon-arrowup:before {
+	content: "\e65b";
+}
+
+.van-icon-cameraenhance:before {
+	content: "\e6fb";
+}
+
+.van-icon-clouddownload:before {
+	content: "\e758";
+}
+
+.van-icon-exclamation:before {
+	content: "\e7fa";
+}
+
+.van-icon-help:before {
+	content: "\e8c9";
+}
+
+.van-icon-settings:before {
+	content: "\ea84";
+}
+
+.van-icon-sharevariant:before {
+	content: "\ea88";
+}
+
+.van-icon-stethoscope:before {
+	content: "\eac9";
+}
+
+.van-icon-people:before {
+	content: "\e714";
+}
+
+.van-icon-wenhao:before {
+	content: "\e71d";
+}
+
+.van-icon-account-box:before {
+	content: "\e602";
+}
+
+.van-icon-account:before {
+	content: "\e603";
+}
+
+.van-icon-arrow-left:before {
+	content: "\e62c";
+}
+
+.van-icon-chevron-right:before {
+	content: "\e6aa";
+}
+
+.van-icon-delete2:before {
+	content: "\e6f1";
+}
+
+.van-icon-home2:before {
+	content: "\e7a0";
+}
+
+.van-icon-lock:before {
+	content: "\e7d9";
+}
+
+.van-icon-menu:before {
+	content: "\e7e9";
+}
+
+.van-icon-package-variant-closed:before {
+	content: "\e830";
+}
+
+.van-icon-pencil:before {
+	content: "\e83a";
+}
+
+.van-icon-ic_error:before {
+	content: "\e8dc";
+}
+
+.van-icon-ic_account_balance:before {
+	content: "\e8de";
+}
+
+.van-icon-ic_add_shopping_cart:before {
+	content: "\e8e1";
+}
+
+.van-icon-ic_assessment:before {
+	content: "\e8e5";
+}
+
+.van-icon-ic_assignment:before {
+	content: "\e8e6";
+}
+
+.van-icon-ic_assignment_ind:before {
+	content: "\e8e8";
+}
+
+.van-icon-ic_assignment_turned_in:before {
+	content: "\e8e7";
+}
+
+.van-icon-ic_check_circle:before {
+	content: "\e8ed";
+}
+
+.van-icon-ic_description:before {
+	content: "\e8f5";
+}
+
+.van-icon-ic_dns:before {
+	content: "\e8f3";
+}
+
+.van-icon-ic_done:before {
+	content: "\e8f4";
+}
+
+.van-icon-ic_group_work:before {
+	content: "\e8ff";
+}
+
+.van-icon-ic_help:before {
+	content: "\e900";
+}
+
+.van-icon-ic_language:before {
+	content: "\e90a";
+}
+
+.van-icon-ic_pageview:before {
+	content: "\e916";
+}
+
+.van-icon-ic_picture_in_picture:before {
+	content: "\e91c";
+}
+
+.van-icon-ic_record_voice_over:before {
+	content: "\e921";
+}
+
+.van-icon-ic_watch_later:before {
+	content: "\e946";
+}
+
+.van-icon-ic_add:before {
+	content: "\e97f";
+}
+
+.van-icon-ic_add_circle:before {
+	content: "\e980";
+}
+
+.van-icon-ic_border_color:before {
+	content: "\e9bd";
+}
+
+.van-icon-ic_rotate__degrees_ccw:before {
+	content: "\ea35";
+}
+
+.van-icon-ic_local_shipping:before {
+	content: "\ea57";
+}
+
+.van-icon-ic_cancel:before {
+	content: "\ea65";
+}
+
+.van-icon-ic_event_note:before {
+	content: "\ea78";
+}
+
+.van-icon-ic_domain:before {
+	content: "\ea92";
+}
+
+.van-icon-icon-paizhao:before {
+	content: "\e8d1";
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body,
+html {
+	width: 100%;
+	height: 100%;
+}
+
+body {
+	background-color: #F8F8F8 !important;
+	font-family: "微软雅黑";
+	font-size: 16px;
+}
+
+ul {
+	list-style: none;
+}
+
+input::-webkit-input-placeholder {
+	color: rgb(176, 176, 176);
+}
+
+.auth-cusomer-post {
+	color: rgb(255, 255, 255);
+	background-color: rgb(62, 155, 255);
+	box-shadow: rgba(62, 155, 255, 0.4) 0px 6px 10px 0px;
+	border-radius: 6px;
+	font-size: .9rem;
+	border: 1px solid transparent;
+	width: 88%;
+	margin: 0 auto;
+	display: block;
+	margin-top: 2rem;
+	padding: 1rem;
+}
+
+.el-progress-bar__outer {
+	background-color: rgba(255, 255, 255, .2) !important;
+}
+
+.el-progress-bar__innerText {
+	display: none !important;
+}
+
+.fade-enter-active,
+.fade-leave-active {
+	transition: opacity .5s;
+}
+
+.fade-enter,
+.fade-leave-to
+/* .fade-leave-active below version 2.1.8 */
+
+{
+	opacity: 0;
+}
+
+.vue-html5-editor [contenteditable=true]:empty:before {
+	content: attr(placeholder);
+	width: inherit;
+	height: inherit;
+	color: grey;
+	display: block;
+}
+
+.vue-html5-editor>.toolbar>ul {
+	text-align: left !important;
+}
